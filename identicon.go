@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	str := "Bangladesh"
+	str := "test"
 	length := 60
 	fmt.Println(str)
 	generateIdenticon(str, length)
